@@ -1,0 +1,11 @@
+{
+    "TestName": "Main gameplay route auto test",
+    "IsPassed": false,
+    "AverageFps": 171.9889373779297,
+    "HasBotReachedFinish": false,
+    "IsBotStuck": false,
+    "IsButtonPressed": false,
+    "IsDoorOpened": false,
+    "IsCapturePointCompleted": false,
+    "FailureReason": "Test timeout: bot did not finish route in expected time."
+}
