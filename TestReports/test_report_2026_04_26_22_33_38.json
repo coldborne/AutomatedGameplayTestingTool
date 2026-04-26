@@ -1,0 +1,11 @@
+{
+    "TestName": "Main gameplay route auto test",
+    "IsPassed": false,
+    "AverageFps": 64.40178680419922,
+    "HasBotReachedFinish": true,
+    "IsBotStuck": false,
+    "IsButtonPressed": true,
+    "IsDoorOpened": true,
+    "IsCapturePointCompleted": false,
+    "FailureReason": ""
+}
